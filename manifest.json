@@ -1,0 +1,12 @@
+{
+ "format": 1,
+ "published": "2026-09-27T11:31:45Z",
+ "minApp": "1.0",
+ "books": 61,
+ "catalog": "catalog-9f7e5811.json",
+ "catalogBytes": 57631,
+ "catalogSha256": "9f7e58118499d553edd0fc33cff58c77a88e0132208bf38f666842e246a2ddf6",
+ "counts": "counts-765c4609.json",
+ "countsBytes": 3046142,
+ "countsSha256": "765c4609800d29989ee18e8dd9f55b8074b26328882d25419af429e733d41ac6"
+}
