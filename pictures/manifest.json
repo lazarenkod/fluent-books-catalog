@@ -1,11 +1,11 @@
 {
  "format": 1,
  "style": "line",
- "version": "21bcf1053f9b",
+ "version": "2276bb403902",
  "published": "2026-10-01T00:00:00Z",
- "file": "https://github.com/lazarenkod/fluent-books-catalog/releases/download/pictures/pictures-line-21bcf1053f9b.sqlite",
+ "file": "https://github.com/lazarenkod/fluent-books-catalog/releases/download/pictures/pictures-line-2276bb403902.sqlite",
  "bytes": 19697664,
- "sha256": "e3a14d101e5a736145d3d7b85bdd32c204777e7a075eb8d28bcedb961861656d",
+ "sha256": "94af372da69540b6574918618c4d680ece143d4e21949f5e9cd0ed88f3624d12",
  "count": 2447,
  "minApp": "1.0"
 }
