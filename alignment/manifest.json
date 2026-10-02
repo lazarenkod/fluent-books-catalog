@@ -1,0 +1,10 @@
+{
+ "format": 1,
+ "model": "labse-en-ru-6",
+ "version": "1539828633e4",
+ "published": "2026-10-02T00:00:00Z",
+ "file": "https://github.com/lazarenkod/fluent-books-catalog/releases/download/alignment/alignment-1539828633e4.fbma",
+ "bytes": 85650366,
+ "sha256": "1539828633e49e4c03707d118728e39378063cbf0c0a7588a41d1a2160eafd26",
+ "vocabSha256": "f52213bc4274ff05820adaf5774570b1f2dcaf3124ce027ccb5768e5eb0a8bb0"
+}
