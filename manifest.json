@@ -1,12 +1,12 @@
 {
  "format": 2,
- "published": "2026-10-06T17:49:45Z",
+ "published": "2026-11-12T10:23:00Z",
  "minApp": "1.0",
- "books": 87,
- "catalog": "catalog-b87cf953.json",
- "catalogBytes": 99287,
- "catalogSha256": "b87cf9534f9815513fc080292e95ced082779e924b628f6d2025140b48fc03fb",
- "counts": "counts-3feed987.json",
- "countsBytes": 3062283,
- "countsSha256": "3feed9871243e57ee5077fe558eeba3ec694c532be955d822f26ac6ecadd5d7b"
+ "books": 198,
+ "catalog": "catalog-1b80f0b9.json",
+ "catalogBytes": 204986,
+ "catalogSha256": "1b80f0b94a1bb53c61ea243dc1e5745b731a7e7176f615ec9c147c86f9542fd2",
+ "counts": "counts-0c87349d.json",
+ "countsBytes": 5914885,
+ "countsSha256": "0c87349d1f58425af03c0a3e2bed5f9f1a1193d3b83796b4702008d7881da17d"
 }
