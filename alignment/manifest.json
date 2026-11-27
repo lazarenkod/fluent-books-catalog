@@ -1,10 +1,10 @@
 {
  "format": 1,
  "model": "labse-en-ru-6",
- "version": "1539828633e4",
- "published": "2026-10-02T00:00:00Z",
- "file": "https://github.com/lazarenkod/fluent-books-catalog/releases/download/alignment/alignment-1539828633e4.fbma",
- "bytes": 85650366,
- "sha256": "1539828633e49e4c03707d118728e39378063cbf0c0a7588a41d1a2160eafd26",
- "vocabSha256": "f52213bc4274ff05820adaf5774570b1f2dcaf3124ce027ccb5768e5eb0a8bb0"
+ "version": "3667a04f0c39",
+ "published": "2026-11-27T00:00:00Z",
+ "file": "https://github.com/lazarenkod/fluent-books-catalog/releases/download/alignment/alignment-3667a04f0c39.fbma",
+ "bytes": 82753088,
+ "sha256": "3667a04f0c3926012c8eb1e8deb0c0f8d4c65f56a19e52f7f076d05841dfc8bf",
+ "vocabSha256": "2b4d9146133eee347553b42b14004ec9f1dd7fe606209900a897acac5789bb1c"
 }
