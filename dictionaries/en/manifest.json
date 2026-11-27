@@ -1,0 +1,14 @@
+{
+  "bytes": 12716278,
+  "dataDate": "2026-11-07",
+  "expressions": 5368,
+  "file": "https://github.com/lazarenkod/fluent-books-catalog/releases/download/dictionaries-2026.11.27.1/lexicon-2026.11.27.1.sqlite.deflate",
+  "format": 2,
+  "minApp": "1.0",
+  "published": "2026-11-27T00:00:00Z",
+  "sha256": "6cd60bfda79ba77946fc9be7aea88335c5d88d4c5dd7036a25ffa714300cbecf",
+  "unpackedBytes": 30265344,
+  "unpackedSha256": "2c1871b066066cd2651f940db199f54bd76860fe73fb9cc3e278acebe84b723a",
+  "version": "2026.11.27.1",
+  "words": 32658
+}

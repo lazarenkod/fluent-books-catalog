@@ -1,0 +1,28 @@
+{
+  "assetBaseURL": "https://github.com/lazarenkod/fluent-books-catalog/releases/download/dictionaries-2026.11.27.1/",
+  "files": [
+    {
+      "bytes": 12037370,
+      "file": "lexicon_es.sqlite.deflate",
+      "name": "lexicon_es.sqlite",
+      "sha256": "ed7c886785ab71a115776015600795a64943f09c7ac7ace5e0e9db4d355baf68",
+      "unpackedBytes": 33939456,
+      "unpackedSha256": "e2ca5bd76046b18c6eea6efb7b22c7d684fe5260d02bff5ccfea6f55c4080d2a"
+    },
+    {
+      "bytes": 408459,
+      "file": "phrasebook_es.sqlite.deflate",
+      "name": "phrasebook_es.sqlite",
+      "sha256": "f1a6198a11a9c4af8be109e2779fb7f1cf76796f38fc1933cefbb69e7a5db674",
+      "unpackedBytes": 1409024,
+      "unpackedSha256": "bccbcce8a79b0ee20f1e8f195189d9057e9b5dfbdb0713d1535686c8103949c9"
+    }
+  ],
+  "format": 1,
+  "language": "es",
+  "minApp": "1.0",
+  "published": "2026-11-27T00:00:00Z",
+  "schema": 1,
+  "sourceVersion": "2026.11.11",
+  "version": "2026.11.27.1"
+}
